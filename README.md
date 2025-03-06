@@ -28,6 +28,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás recursos para la enseñanza
 📌 **[Ejercicios de Python para estudiantes](https://github.com/tuusuario/Ejercicios-Python)**  
 📌 **[Proyecto de Merchandising Digital](https://github.com/tuusuario/Merchandising-Digital)**  
 📌 **[Recursos sobre metodologías activas en informática](https://github.com/tuusuario/Metodologias-Activas)**  
+📌 **[Guia de Git - Comandos básicos](https://github.com/tuusuario/git-comandos-basicos)**  
 
 ---
 
