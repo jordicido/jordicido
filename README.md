@@ -44,6 +44,4 @@ Si te interesa la enseñanza de la informática y el desarrollo de materiales ed
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordicido&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordicido&layout=compact&theme=dark)
-
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jordicido&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
