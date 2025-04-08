@@ -40,5 +40,5 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás recursos para la enseñanza
 
 Si te interesa la enseñanza de la informática y el desarrollo de materiales educativos, ¡hablemos! 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordicido&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordicido&layout=compact&theme=default)
