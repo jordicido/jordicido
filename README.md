@@ -76,8 +76,7 @@ En proyectos de producto busco una arquitectura sencilla, documentación suficie
 ## Estadísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jordicido&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordicido&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordicido&theme=github_dark" alt="Resumen del perfil de GitHub" />
 </p>
 
 [![Actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jordicido&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
